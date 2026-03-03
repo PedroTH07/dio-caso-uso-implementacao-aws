@@ -1,0 +1,3 @@
+# Estudo de caso: Implementação de AWS numa epresa sem nuvem - DIO ☁️
+
+Este projeto feito pelo bootcamp "CI&T - Backend com Java e AWS" da DIO tem como objetivo a criação de um documento para um gerente de finanças de uma empresa farmacêutica sobre a possibilidade de implementar cloud na empresa, falando de 3 ferramentas da AWS e justificando a implantação dela, o porquê daquela ferramenta e os benefícios dela. 
